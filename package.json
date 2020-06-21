@@ -1,0 +1,24 @@
+{
+  "name": "myresume",
+  "version": "1.0.1",
+  "description": "Suhail M Resume",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhailphp/MyResume.git"
+  },
+  "keywords": [
+    "resume",
+    "portfolio",
+    "html"
+  ],
+  "author": "suhailphp@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suhailphp/MyResume/issues"
+  },
+  "homepage": "https://github.com/suhailphp/MyResume#readme"
+}
